@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Testing Anacypher"
+---
+
+
+# Our Logo #
+
+More text
+
+
+![Logistics](/assets/logo.jpg)
